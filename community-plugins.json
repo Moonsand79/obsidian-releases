@@ -31233,4 +31233,11 @@
     "description": "This plugin has not been manually reviewed by Obsidian staff. Life RPG dashboard for habits, XP, rewards, wallet, water, and daily progress.",
     "repo": "darkkross-tech/Life-RPG-1.5"
   }
+  {
+    "id": "decision-wheel",
+    "name": "Decision Wheel",
+    "author": "Your GitHub Name",
+    "description": "An interactive, customizable circular wheel canvas helper to randomize and category filter tricky decisions.",
+    "repo": "moonsand79/obsidian-decision-wheel"
+}
 ]
